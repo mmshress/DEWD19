@@ -4,9 +4,6 @@ body {
   background-color: #f5e5db;
 }
 
-h2, b {
-  color: white;
-}
 
 .navbar {
   color: #f5e5db;
@@ -121,4 +118,16 @@ h2, b {
   background-color: #f5e5db;
   padding: 20px;
   height: 100%;
+}
+
+.testi-img {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.testimonials{
+  padding: 4vw;
+  background-color: white;
+  color: black;
 }
