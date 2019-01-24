@@ -64,9 +64,7 @@ h2, b {
    height:300px;
 }
 */
-
 .card-deck {
-  margin-top: 20px;
   padding: 50px;
   background-color: white;
 }
@@ -92,13 +90,13 @@ h2, b {
   margin-right: 500px;
 }
 
-.img-fluid{
-    width: 100%;
-    margin-right: 0px;
-    padding-right: 0px;
+.img-fluid {
+  width: 100%;
+  margin-right: 0px;
+  padding-right: 0px;
 }
 
-.nopadding{
+.nopadding {
   padding: 0 !important;
   margin: 0 !important;
 }
@@ -108,4 +106,9 @@ h2, b {
   background-color: #f5e5db;
   padding: 20px;
   height: 100%;
+}
+
+.brags {
+  height: 250px;
+  text-align: center;
 }
