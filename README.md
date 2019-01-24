@@ -1,2 +1,2 @@
 # DEWD19
-Digital Entrepreneurship and Web Design 2019 course ez 
+Digital Entrepreneurship and Web Design 2019 course 
