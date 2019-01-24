@@ -49,6 +49,18 @@ body {
   color: #FFFFFF;
 }
 
+.btn-search {
+  background-color: #39a2b8;
+  border-color: rgba(204, 204, 204, 1);
+  color: #FFFFFF;
+}
+
+.btn-search:active, .btn-search:hover {
+  background-color: rgba(0, 0, 0, 1);
+  border-color: transparent;
+  color: #FFFFFF;
+}
+
 .nav-item a {
   color: black;
   text-decoration: none;
@@ -122,7 +134,7 @@ body {
 
 .brags{
   text-align: center;
-  
+
   height: 25vw;
 }
 
