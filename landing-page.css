@@ -92,17 +92,20 @@ h2, b {
   margin-right: 500px;
 }
 
-.top-section {
-  background-image: url(http://www.kiplinger.com/slideshow/real-estate/T010-S001-what-home-improvement-shows-do-not-tell-you/images/intro.jpg);
-  display: flex;
-  height: 800px;
-  width: 1200px;
+.img-fluid{
+    width: 100%;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+
+.nopadding{
+  padding: 0 !important;
+  margin: 0 !important;
 }
 
 .title {
-  margin-left: 50px;
-  margin-top: 100px;
+  text-align: center;
   background-color: #f5e5db;
   padding: 20px;
-  height: 140px;
+  height: 100%;
 }
