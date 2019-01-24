@@ -48,11 +48,12 @@ body {
   margin-right: 500px;
 }
 
-.top-section {
-  background-image: url(http://www.kiplinger.com/slideshow/real-estate/T010-S001-what-home-improvement-shows-do-not-tell-you/images/intro.jpg);
-  display: flex;
-  height: 800px;
-  width: 1200px;
+.jumbotron{
+    background-color: transparent !important;
+}
+
+.top-heading{
+    background-color: #f5e5db;
 }
 
 .title {
