@@ -90,15 +90,28 @@ h2, b {
   margin-right: 500px;
 }
 
-.img-fluid {
-  width: 100%;
-  margin-right: 0px;
-  padding-right: 0px;
+.jumbotron{
+    background-color: transparent !important;
+    text-align: center;
+}
+
+.bg-cream{
+    background-color: #f5e5db;
+}
+
+.img-fluid{
+    width: 100%;
+    margin-right: 0px;
+    padding-right: 0px;
 }
 
 .nopadding {
   padding: 0 !important;
   margin: 0 !important;
+}
+
+.chaticon{
+  height: 10vh;
 }
 
 .title {
