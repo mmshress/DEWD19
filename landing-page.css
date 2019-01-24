@@ -4,13 +4,12 @@ body {
   background-color: #f5e5db;
 }
 
-.navbar {
-  color: #f5e5db;
-  border-bottom: 5px solid black;
+h2, b {
+  color: white;
 }
 
-.navbar-adjustment{
-  width: 100%;
+.navbar {
+  color: #f5e5db;
 }
 
 .navbar-brand {
@@ -60,15 +59,31 @@ body {
   margin-right: 15px;
 }
 
+/*
+.card{
+   height:300px;
+}
+*/
+
 .card-deck {
   margin-top: 20px;
-  margin-left: 30px;
-  margin-right: 30px;
+  padding: 50px;
+  background-color: white;
 }
 
 .card-body {
   text-align: center;
   font-size: 20px;
+}
+
+.arrow {
+  fill-opacity: 1;
+  stroke-width: 0;
+  stroke: #ED1566;
+  stroke-opacity: 1;
+  fill: #DEA087;
+  pointer-events: initial;
+  transform: rotate(90deg);
 }
 
 .form-row {
@@ -77,12 +92,11 @@ body {
   margin-right: 500px;
 }
 
-.jumbotron{
-    background-color: transparent !important;
-}
-
-.top-heading{
-    background-color: #f5e5db;
+.top-section {
+  background-image: url(http://www.kiplinger.com/slideshow/real-estate/T010-S001-what-home-improvement-shows-do-not-tell-you/images/intro.jpg);
+  display: flex;
+  height: 800px;
+  width: 1200px;
 }
 
 .title {
